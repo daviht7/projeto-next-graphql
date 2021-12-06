@@ -8,7 +8,7 @@ const Main = () => (
     />
     <S.Title>React Avançado</S.Title>
     <S.Description>
-      TypeScript, ReactJs, NextJs e Styled components
+      TypeScript, ReactJs, NextJs, Graphql e Styled components
     </S.Description>
     <S.Illustration
       src="/img/hero-illustration.svg"

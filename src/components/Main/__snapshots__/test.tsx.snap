@@ -1,32 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Main /> should render colors correctly 1`] = `
-<main
-  class="styles__Wrapper-gpRyM ieutPk"
->
-  <img
-    alt="Imagem de um átomo e React Avançado escrito do lado"
-    class="styles__Logo-bRCRwg dBQoku"
-    src="/img/logo.svg"
-  />
-  <h1
-    class="styles__Title-cLDGHr bZCzI"
-  >
-    React Avançado
-  </h1>
-  <h2
-    class="styles__Description-emfICt cVhroE"
-  >
-    TypeScript, ReactJs, NextJs e Styled components
-  </h2>
-  <img
-    alt="Um desenvolvedor de frente para um tela com código"
-    class="styles__Illustration-fzyGQP bYTAWd"
-    src="/img/hero-illustration.svg"
-  />
-</main>
-`
-
 exports[`<Main /> should render the heading correctly 1`] = `
 <main
   class="styles__Wrapper-gpRyM ieutPk"
@@ -44,7 +17,7 @@ exports[`<Main /> should render the heading correctly 1`] = `
   <h2
     class="styles__Description-emfICt cVhroE"
   >
-    TypeScript, ReactJs, NextJs e Styled components
+    TypeScript, ReactJs, NextJs, Graphql e Styled components
   </h2>
   <img
     alt="Um desenvolvedor de frente para um tela com código"
